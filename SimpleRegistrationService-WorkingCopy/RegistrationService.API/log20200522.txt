@@ -1,0 +1,64 @@
+2020-05-22 20:56:34.764 +05:30 [INF] Configuring web host (RegistrationService.API)...
+2020-05-22 20:56:37.084 +05:30 [INF] Starting web host (RegistrationService.API)...
+2020-05-22 20:56:37.702 +05:30 [WRN] Overriding address(es) 'http://localhost:5000'. Binding to endpoints defined in UseKestrel() instead.
+2020-05-22 21:47:34.688 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-22 21:47:35.282 +05:30 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-05-22 21:47:35.424 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 21:47:39.537 +05:30 [WRN] The messaging entity $Default Could not be found.
+2020-05-22 21:47:39.584 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-22 21:47:41.814 +05:30 [INF] ----- Begin transaction "d912f045-947e-4985-af61-104d2c181881" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 21:47:47.576 +05:30 [INF] ----- Commit transaction "d912f045-947e-4985-af61-104d2c181881" for GetPatientDocumentCommand
+2020-05-22 21:55:22.014 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 21:55:23.631 +05:30 [INF] ----- Begin transaction "64325934-993c-4ce4-83d3-3fde5e63bfac" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 21:55:28.893 +05:30 [INF] ----- Commit transaction "64325934-993c-4ce4-83d3-3fde5e63bfac" for GetPatientDocumentCommand
+2020-05-22 21:56:13.688 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 21:56:13.944 +05:30 [INF] ----- Begin transaction "cc2a9f9f-ae15-4c41-a1d7-4ebe4689eebd" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 21:56:18.818 +05:30 [INF] ----- Commit transaction "cc2a9f9f-ae15-4c41-a1d7-4ebe4689eebd" for GetPatientDocumentCommand
+2020-05-22 22:36:49.065 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 22:36:50.904 +05:30 [INF] ----- Begin transaction "632dba08-89e7-4d4d-83fb-805ce598abdd" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 22:36:56.176 +05:30 [INF] ----- Commit transaction "632dba08-89e7-4d4d-83fb-805ce598abdd" for GetPatientDocumentCommand
+2020-05-22 22:45:04.864 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 22:45:06.674 +05:30 [INF] ----- Begin transaction "db978e26-c029-49ea-8719-1af5351cab18" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 22:45:11.833 +05:30 [INF] ----- Commit transaction "db978e26-c029-49ea-8719-1af5351cab18" for GetPatientDocumentCommand
+2020-05-22 22:52:26.487 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 22:52:28.238 +05:30 [INF] ----- Begin transaction "0250e48f-dc33-49ed-8543-33ebd10ad849" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 22:52:33.905 +05:30 [INF] ----- Commit transaction "0250e48f-dc33-49ed-8543-33ebd10ad849" for GetPatientDocumentCommand
+2020-05-22 22:57:29.666 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 22:57:31.384 +05:30 [INF] ----- Begin transaction "fd08dd83-52a4-4994-a423-1cec5f868da6" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 22:57:36.295 +05:30 [INF] ----- Commit transaction "fd08dd83-52a4-4994-a423-1cec5f868da6" for GetPatientDocumentCommand
+2020-05-22 23:01:33.346 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:01:34.922 +05:30 [INF] ----- Begin transaction "15c06f85-a777-4e58-bc24-632850efe8d0" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:01:39.955 +05:30 [INF] ----- Commit transaction "15c06f85-a777-4e58-bc24-632850efe8d0" for GetPatientDocumentCommand
+2020-05-22 23:07:23.919 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:07:25.518 +05:30 [INF] ----- Begin transaction "94e0beec-ed03-4bb4-bc6f-b5e6177cfd9c" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:07:30.649 +05:30 [INF] ----- Commit transaction "94e0beec-ed03-4bb4-bc6f-b5e6177cfd9c" for GetPatientDocumentCommand
+2020-05-22 23:08:53.248 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:08:53.491 +05:30 [INF] ----- Begin transaction "4199cc64-2cb9-4d8e-b8a1-d098cb66589f" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:08:58.278 +05:30 [INF] ----- Commit transaction "4199cc64-2cb9-4d8e-b8a1-d098cb66589f" for GetPatientDocumentCommand
+2020-05-22 23:13:50.334 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:13:50.584 +05:30 [INF] ----- Begin transaction "2736578e-239b-4369-9de0-0df410bdad7c" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:13:55.087 +05:30 [INF] ----- Commit transaction "2736578e-239b-4369-9de0-0df410bdad7c" for GetPatientDocumentCommand
+2020-05-22 23:18:10.492 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:18:10.741 +05:30 [INF] ----- Begin transaction "22a3a8ee-327d-4810-99d4-11ec7074388e" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:18:15.260 +05:30 [INF] ----- Commit transaction "22a3a8ee-327d-4810-99d4-11ec7074388e" for GetPatientDocumentCommand
+2020-05-22 23:20:57.316 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:20:57.566 +05:30 [INF] ----- Begin transaction "27a8e132-54ed-4ace-b37b-c7da8a8e1046" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:21:02.590 +05:30 [INF] ----- Commit transaction "27a8e132-54ed-4ace-b37b-c7da8a8e1046" for GetPatientDocumentCommand
+2020-05-22 23:24:04.940 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:24:05.183 +05:30 [INF] ----- Begin transaction "5dc6d104-02bd-429b-b3dc-f74c57be359b" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:24:09.930 +05:30 [INF] ----- Commit transaction "5dc6d104-02bd-429b-b3dc-f74c57be359b" for GetPatientDocumentCommand
+2020-05-22 23:30:18.704 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:30:20.286 +05:30 [INF] ----- Begin transaction "ab76bb95-eacc-4d66-a788-72b2e2c41e96" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:30:25.486 +05:30 [INF] ----- Commit transaction "ab76bb95-eacc-4d66-a788-72b2e2c41e96" for GetPatientDocumentCommand
+2020-05-22 23:33:57.244 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:33:57.504 +05:30 [INF] ----- Begin transaction "deea0658-47a0-4a50-b43b-71dc6d6c8846" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:34:02.258 +05:30 [INF] ----- Commit transaction "deea0658-47a0-4a50-b43b-71dc6d6c8846" for GetPatientDocumentCommand
+2020-05-22 23:40:48.607 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:40:50.390 +05:30 [INF] ----- Begin transaction "8b51ab54-0c9c-4f9d-8662-6fe06d6f5db5" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:40:55.200 +05:30 [INF] ----- Commit transaction "8b51ab54-0c9c-4f9d-8662-6fe06d6f5db5" for GetPatientDocumentCommand
+2020-05-22 23:43:15.723 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:43:15.969 +05:30 [INF] ----- Begin transaction "c357c204-36ef-48d2-a481-9dd352e75bf3" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:43:20.623 +05:30 [INF] ----- Commit transaction "c357c204-36ef-48d2-a481-9dd352e75bf3" for GetPatientDocumentCommand
+2020-05-22 23:43:53.477 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-22 23:43:53.724 +05:30 [INF] ----- Begin transaction "2c7e07de-4335-4ff3-86b5-7000752d1d5c" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-22 23:43:58.373 +05:30 [INF] ----- Commit transaction "2c7e07de-4335-4ff3-86b5-7000752d1d5c" for GetPatientDocumentCommand

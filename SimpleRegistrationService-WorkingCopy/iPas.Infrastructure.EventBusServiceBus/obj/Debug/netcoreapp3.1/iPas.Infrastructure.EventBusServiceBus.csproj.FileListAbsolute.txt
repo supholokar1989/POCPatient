@@ -1,0 +1,47 @@
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csprojAssemblyReference.cache
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfoInputs.cache
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfo.cs
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.deps.json
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CopyComplete
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.deps.json
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csprojAssemblyReference.cache
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CoreCompileInputs.cache
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfoInputs.cache
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfo.cs
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CopyComplete
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+D:\ProjectsAndPOC\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.deps.json
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csprojAssemblyReference.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CoreCompileInputs.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfoInputs.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfo.cs
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CopyComplete
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.deps.json
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csprojAssemblyReference.cache
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CoreCompileInputs.cache
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfoInputs.cache
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.AssemblyInfo.cs
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.csproj.CopyComplete
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\iPas.Infrastructure.EventBusServiceBus\obj\Debug\netcoreapp3.1\iPas.Infrastructure.EventBusServiceBus.pdb

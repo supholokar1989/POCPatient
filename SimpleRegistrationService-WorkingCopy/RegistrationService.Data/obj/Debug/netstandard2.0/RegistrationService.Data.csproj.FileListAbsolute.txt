@@ -1,0 +1,40 @@
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.deps.json
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfoInputs.cache
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfo.cs
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.csprojAssemblyReference.cache
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.deps.json
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfoInputs.cache
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfo.cs
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.csprojAssemblyReference.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.deps.json
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.pdb
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.csprojAssemblyReference.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.csproj.CoreCompileInputs.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfoInputs.cache
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfo.cs
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.dll
+D:\PelitasPOC\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.pdb
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.deps.json
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\bin\Debug\netstandard2.0\RegistrationService.Data.pdb
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.csprojAssemblyReference.cache
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.csproj.CoreCompileInputs.cache
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfoInputs.cache
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.AssemblyInfo.cs
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.dll
+D:\PelitasPOC\Development Environment\SimpleRegistrationService-WorkingCopy\RegistrationService.Data\obj\Debug\netstandard2.0\RegistrationService.Data.pdb

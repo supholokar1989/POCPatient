@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RegistrationService.API",
+    "\\RegistrationService.API\\Application",
+    "\\RegistrationService.API\\Infrastructure",
+    "\\RegistrationService.API\\Infrastructure\\ActionResults",
+    "\\RegistrationService.API\\Infrastructure\\Filters",
+    "\\RegistrationService.API\\IntegrationEvents",
+    "\\RegistrationService.API\\IntegrationEvents\\Events",
+    "\\RegistrationService.API\\Properties",
+    "\\RegistrationService.API\\Properties\\PublishProfiles"
+  ],
+  "SelectedNode": "\\RegistrationService.API\\IntegrationEvents\\RegistrationIntegrationEventService.cs",
+  "PreviewInSolutionExplorer": false
+}

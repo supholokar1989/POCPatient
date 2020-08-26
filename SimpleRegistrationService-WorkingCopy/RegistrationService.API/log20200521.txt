@@ -1,0 +1,47 @@
+2020-05-21 13:30:07.324 +05:30 [INF] Configuring web host (RegistrationService.API)...
+2020-05-21 13:30:08.609 +05:30 [INF] Starting web host (RegistrationService.API)...
+2020-05-21 13:30:08.944 +05:30 [WRN] Overriding address(es) 'http://localhost:5000'. Binding to endpoints defined in UseKestrel() instead.
+2020-05-21 13:37:12.424 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 13:37:12.925 +05:30 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-05-21 18:37:44.167 +05:30 [INF] Configuring web host (RegistrationService.API)...
+2020-05-21 18:37:45.768 +05:30 [INF] Starting web host (RegistrationService.API)...
+2020-05-21 18:37:46.405 +05:30 [WRN] Overriding address(es) 'http://localhost:5000'. Binding to endpoints defined in UseKestrel() instead.
+2020-05-21 19:01:02.880 +05:30 [INF] Configuring web host (RegistrationService.API)...
+2020-05-21 19:01:05.548 +05:30 [INF] Starting web host (RegistrationService.API)...
+2020-05-21 19:01:06.104 +05:30 [WRN] Overriding address(es) 'http://localhost:5000'. Binding to endpoints defined in UseKestrel() instead.
+2020-05-21 19:11:42.839 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 19:11:43.346 +05:30 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-05-21 19:11:48.032 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-21 19:11:51.931 +05:30 [WRN] The messaging entity $Default Could not be found.
+2020-05-21 19:11:51.977 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 19:11:54.173 +05:30 [INF] ----- Begin transaction "4d0c1f63-72c3-4467-9c65-2814e4955dca" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-21 19:12:01.206 +05:30 [INF] ----- Commit transaction "4d0c1f63-72c3-4467-9c65-2814e4955dca" for GetPatientDocumentCommand
+2020-05-21 19:19:29.153 +05:30 [INF] Configuring web host (RegistrationService.API)...
+2020-05-21 19:19:31.023 +05:30 [INF] Starting web host (RegistrationService.API)...
+2020-05-21 19:19:31.510 +05:30 [WRN] Overriding address(es) 'http://localhost:5000'. Binding to endpoints defined in UseKestrel() instead.
+2020-05-21 19:19:57.473 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 19:19:57.941 +05:30 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-05-21 19:20:03.560 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-21 19:20:07.383 +05:30 [WRN] The messaging entity $Default Could not be found.
+2020-05-21 19:20:07.428 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 19:20:09.405 +05:30 [INF] ----- Begin transaction "a3864c03-54fc-428f-9298-9550bbd5c713" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-21 19:20:16.332 +05:30 [INF] ----- Commit transaction "a3864c03-54fc-428f-9298-9550bbd5c713" for GetPatientDocumentCommand
+2020-05-21 19:23:12.344 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-21 19:23:12.598 +05:30 [INF] ----- Begin transaction "11831b49-b389-43f7-8d9d-25543ee58d5a" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-21 19:23:17.488 +05:30 [INF] ----- Commit transaction "11831b49-b389-43f7-8d9d-25543ee58d5a" for GetPatientDocumentCommand
+2020-05-21 22:15:53.376 +05:30 [INF] Configuring web host (RegistrationService.API)...
+2020-05-21 22:15:54.630 +05:30 [INF] Starting web host (RegistrationService.API)...
+2020-05-21 22:15:54.963 +05:30 [WRN] Overriding address(es) 'http://localhost:5000'. Binding to endpoints defined in UseKestrel() instead.
+2020-05-21 22:16:00.406 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 22:16:01.039 +05:30 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-05-21 22:16:03.665 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-21 22:16:08.124 +05:30 [WRN] The messaging entity $Default Could not be found.
+2020-05-21 22:16:08.191 +05:30 [WRN] 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Remove the 'AddEntityFramework*' call as in most cases it's not needed and might cause conflicts with other products and services registered in the same service provider.
+2020-05-21 22:16:10.884 +05:30 [INF] ----- Begin transaction "80fe8c29-e42e-45b8-8b33-7de0156aabb2" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-21 22:16:22.439 +05:30 [INF] ----- Commit transaction "80fe8c29-e42e-45b8-8b33-7de0156aabb2" for GetPatientDocumentCommand
+2020-05-21 22:38:25.942 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-21 22:38:27.743 +05:30 [INF] ----- Begin transaction "c4f0cb88-a1ba-4967-a3a9-aa9717a94b69" for GetPatientDocumentCommand ({"PatientVisitID":15,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-21 22:38:34.540 +05:30 [INF] ----- Commit transaction "c4f0cb88-a1ba-4967-a3a9-aa9717a94b69" for GetPatientDocumentCommand
+2020-05-21 23:38:56.051 +05:30 [INF] -----Sending command: GetPatientDocumentCommand
+2020-05-21 23:38:57.759 +05:30 [INF] ----- Begin transaction "2bdfe23c-9525-4c62-a2ed-a32fa1ed30e2" for GetPatientDocumentCommand ({"PatientVisitID":12,"ClientID":1,"$type":"GetPatientDocumentCommand"})
+2020-05-21 23:39:02.915 +05:30 [INF] ----- Commit transaction "2bdfe23c-9525-4c62-a2ed-a32fa1ed30e2" for GetPatientDocumentCommand
